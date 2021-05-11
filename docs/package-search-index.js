@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"nz.examplewastaken.spigottoolbox.command"},{"l":"nz.examplewastaken.spigottoolbox.main"},{"l":"nz.examplewastaken.spigottoolbox.util"}]

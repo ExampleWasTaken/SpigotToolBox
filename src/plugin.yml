@@ -1,0 +1,28 @@
+name: SpigotToolBox
+version: 1.0.0
+api-version: 1.16
+main: nz.examplewastaken.spigottoolbox.main.SpigotToolBox
+author: ExampleWasTaken
+commands:
+  rlc:
+    description: Reloads the server
+    usage: /<command>
+  night:
+    description: Give yourself night vision
+    usage: /<command>
+  gmc:
+    description: Sets you to Creative
+    usage: /<command>
+  gma:
+    description: Sets you to Adventure
+    usage: /<command>
+  gms:
+    description: Sets you to Survival
+    usage: /<command>
+  gmsp:
+    description: Sets you to Spectator
+    usage: /<command>
+
+# Append your name to the list
+authors:
+  - ExampleWasTaken
